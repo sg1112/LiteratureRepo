@@ -1,0 +1,7 @@
+<?php
+	$server = "ix.cs.uoregon.edu";
+	$dbname ="LiteratureRepo";
+	$user = "shweta";
+	$pass = "mysql@123";
+	$port="3870";
+?>
